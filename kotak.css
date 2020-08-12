@@ -1,0 +1,185 @@
+nav {
+	margin: -10px;
+	width: 1010px;
+	height: 90px;
+	background-color: #946950;
+
+}
+
+.header-left {
+	margin-left: 100px;
+}
+
+.header-left ul li{
+	list-style-type: none;
+	text-decoration: none;
+	color: white;
+	float: left;
+	margin-top: -16px;
+	padding-right: 80px;
+	font-size: 20px;
+	font-family: Arial Rounded MT;
+}
+
+.header-left a {
+	display: block;
+}
+
+.header-left a:hover {
+	background-color: rgba(75,75,75,0.8);
+	display: inline;
+}
+
+
+
+
+.header-right {
+	font-family: Arial Rounded MT;
+	font-size: 16px;
+	width: 200px;
+	height: 28px;
+	float: right;
+	position: absolute;
+	margin-top: -18px;
+	margin-left: 40px;
+	border: 4px;
+	border-radius: 5px;
+}
+
+.make {
+	color: white;
+}
+
+.form {
+	position: absolute;
+	margin-left: 900px;
+	margin-top: -10px;
+}
+
+.form h1 {
+	margin-left: 130px;
+	font-family: Arial Rounded MT;
+	font-size: 42px;
+	color: #e19360;
+	margin-top: -60px;
+}
+
+.form h3 {
+	position: relative;
+	font-family: Arial Rounded MT;
+	font-size: 18px;
+	color: #e19360;
+	margin-left: 52px;
+	margin-top: -20px;
+}
+
+.form h5 {
+	font-family: Arial Rounded MT;
+	font-size: 22px;
+	color: #e19360;
+	margin-left: 190px;
+}
+
+.form hr {
+	margin-top: -30px;
+	width: 23px;
+	height: 2px;
+	background-color: #e19360;
+	border: 2px;
+	border-radius: 2px;
+	margin-left: 214px;
+
+}
+
+.form p {
+	font-family: Arial Rounded MT;
+	color: #e19360;
+	margin-left: 175px;
+	margin-top: 30px;
+	font-size: 20px;
+}
+
+.form input {
+	height: 28px;
+	border: 1px solid gray;
+	border-radius: 5px;
+	margin-left: 140px;
+	margin-top: -10px;
+	margin-bottom: -10px;	
+}
+
+.login {
+	margin-left: 160px;
+	margin-top: 20px;
+	width: 130px;
+	height: 30px;
+	border: 2px;
+	border-radius: 20px;
+	background-color: #ef9d63;
+	font-family: Arial Rounded MT;
+	font-size: 16px;
+	color: white;
+}
+
+.lainnya {
+	margin-top: 350px;
+	margin-left: 900px;
+	position: absolute;
+	font-family: Arial Rounded MT;
+}
+
+.lainnya  h6 {
+	margin-left: 180px;
+	font-size: 14px;
+	margin-left: 183;
+	margin-top: -20px;
+}
+
+.lainnya img {
+	width: 200px;
+	height: 100px;
+	margin-top: -35px;
+	margin-left: 125px;
+}
+
+.content {
+	background-image: url(Bahan/bg.jpg);
+	margin-top: -32px;
+	margin-left: -8px;
+	width: 1008px;
+	height: 525px;
+	background-size: cover;
+}
+
+.container h2 {
+	font-family: Arial Rounded MT;
+	font-size: 40px;
+	margin-left: 20px;
+	position: absolute;
+	margin-top: 80px;
+	color: white;
+	text-shadow: 5px 5px 8px black;
+
+}
+
+.container p {
+	position: absolute;
+	font-family: Arial Rounded MT;
+	color: white;
+	margin-top: 140px;
+	margin-left: 16px;
+	font-size: 20px;
+}
+
+.container a img{
+	position: absolute;
+	margin-top: 370px;
+	width: 160px;
+	margin-left: 800px;
+}
+
+
+
+
+
+
